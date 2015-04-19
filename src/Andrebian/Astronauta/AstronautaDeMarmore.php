@@ -29,7 +29,7 @@ class AstronautaDeMarmore
         $max = count(self::$letra);
         $random = rand($min, $max);
         
-        $frase = self::$letra[$random];
+        $frase = self::$letra[$random] . ' - Astronauta de mármore - Nenhum de Nós';
         
         return $frase;
     }
