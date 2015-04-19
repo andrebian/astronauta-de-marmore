@@ -3,6 +3,7 @@
     "description": "Tenha trechos da canção Astronauta de Mármore do Nenhum de Nós em seu site",
     "type": "library",
     "version": "1.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Andre Cardoso",
