@@ -15,7 +15,8 @@
         "php": ">5.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.4.*"
+        "phpunit/phpunit": "4.4.*",
+	"phpdocumentor/phpdocumentor": "2.*"
     },
     "minimum-stability": "dev",
     "autoload": {
